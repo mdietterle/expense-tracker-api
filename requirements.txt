@@ -13,7 +13,6 @@ annotated-types==0.7.0
 anthropic==0.45.2
 anyio==4.9.0
 appdirs==1.4.4
-apturl==0.5.2
 argon2-cffi==23.1.0
 argon2-cffi-bindings==21.2.0
 arize-phoenix-otel==0.7.1
